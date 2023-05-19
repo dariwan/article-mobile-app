@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="flag_name">Nama Bendera Negara Asean</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_me">About</string>
+    <string name="about">Dariwan \n dariwan1607@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Brunei Darussalam</item>
+        <item>Vietnam</item>
+        <item>Laos</item>
+        <item>Myanmar</item>
+        <item>Kamboja</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Bendera Indonesia disebut juga sebagai Sang Merah Putih yang terdiri dari dua warna, yakni warna merah dan juga warna putih. Makna yang biasa dipahami oleh orang-orang yaitu merah artinya berani dan putih artinya suci</item>
+        <item>Bendera Malaysia yang dikenal dengan nama Jalur Gemilang. Untuk bendera Malaysia terdiri dari empat warna, yakni merah, putih, biru, dan juga kuning dengan maknanya masing-masing. Warna merah sebagai simbol keberanian, warna putih melambangkan kesucian, dan warna biru melambangkan perpaduan. Sedangkan warna kuning yang terdapat bulan sabit serta bintang melambangkan warna dari para raja-raja.</item>
+        <item>Bendera Singapura sendiri mirip dengan bendera Indonesia, yakni terdiri dari warna merah dan warna putih. Namun bedanya, di bagian warna merah terdapat bulan sabit dan juga lima bintang yang tersusun secara melingkar.</item>
+        <item>Bendera Thailand terdiri dari tiga warna, yakni warna merah, putih, dan biru yang tersusun secara mendatar Urutannya yaitu dimulai dari warna merah, putih, biru, putih, dan merah. Warna-warna yang secara berurutan melambangkan negara kepercayaan kepada Tuhan Raja, yang mana merupakan semboyan tidak resmi dari negara Thailand.</item>
+        <item>Bendera Filipina melambangkan perjalanan sejarah yang telah dilalui oleh Filipina. Warna biru melambangkan masa-masa yang tenang, warna merah melambangkan masa lalu yang penuh dengan gejolak perang, dan warna putih yang melambangkan kemurnian. Sementara itu, segitiga sama sisi yang berwarna putih melambangkan trias politika</item>
+        <item>Bendera tersebut diperkenalkan pada tahun 1959. Dimana bendera Brunei ini didominasi dengan warna kuning, di bagian tengah ada garis hitam dan putih. Kemudian di atasnya ada simbol bulan sabit, payung obor, sayap, serta sepasang tangan yang menengadah.</item>
+        <item>Bendera Vietnam terdiri dari dua warna yakni warna merah dan warna kuning. Dimana warna merah pada bendera tersebut melambangkan perjuangan dan kesuksesan revolusi Vietnam. Kemudian bintang kuning yang berada di tengah bendera melambangkan kepemimpinan Partai Komunis. Sementara itu, bintang dengan lima sudutnya melambangkan lima golongan pembentuk sosialisme yakni cendekiawan, tetang, petani, buruh, dan pemuda.</item>
+        <item>Bendera Laos ini mulai diperkenalkan pada tahun 1975. Dimana bendera dari negara Laos terdiri dari warna biru dan merah yang tersusun secara horizontal. Dimana warna merah melambangkan darah dari para pejuang yang telah gugur. Kemudian warna biru melambangkan kekayaan sumber daya dunia</item>
+        <item>Bendera Myanmar terdiri dari warna kuning, hijau, dan merah yang tersusun secara horizontal. Pada bagian tengah ada simbol bintang segi lima berwarna putih. Warna kuning melambangkan solidaritas, kemudian warna hijau melambangkan perdamaian dan warna merah memiliki makna keberanian. Simbol bintang putih yang ada di dalam bendera ini memiliki arti persatuan rakyat Myanmar.</item>
+        <item>Bendera Kamboja ini terdiri dari dua warna, yakni merah dan warna biru. Dimana warna biru tersebut mengapit warna merah. Di bagian tengah, ada sebuah ilustrasi miniatur Angkor Wat, yakni kompleks candi Hindu terbesar di dunia. Kemudian warna biru menyimbolkan keluarga kerajaan, lalu warna merah melambangkan negara dan simbol Angkor Wat melambangkan agama.</item>
+    </string-array>
+
+    <string-array name="data_desc_singkat">
+        <item>Bendera Indonesia disebut juga sebagai Sang Merah Putih yang terdiri dari dua warna, yakni warna merah dan juga warna putih.</item>
+        <item>Bendera Malaysia yang dikenal dengan nama Jalur Gemilang. Untuk bendera Malaysia terdiri dari empat warna, yakni merah, putih, biru, dan juga kuning </item>
+        <item>Bendera Singapura sendiri mirip dengan bendera Indonesia, yakni terdiri dari warna merah dan warna putih. Namun bedanya, di bagian warna merah terdapat bulan sabit dan juga lima bintang</item>
+        <item>Bendera Thailand terdiri dari tiga warna, yakni warna merah, putih, dan biru </item>
+        <item>Bendera Filipina terdiri dari tiga warna yaitu. Warna biru, warna merah, dan warna putih</item>
+        <item>Bendera Brunei ini didominasi dengan warna kuning, di bagian tengah ada garis hitam dan putih.</item>
+        <item>Bendera Vietnam terdiri dari dua warna yakni warna merah dan warna kuning.</item>
+        <item>Bendera dari negara Laos terdiri dari warna biru dan merah yang tersusun secara horizontal.</item>
+        <item>Bendera Myanmar terdiri dari warna kuning, hijau, dan merah yang tersusun secara horizontal.</item>
+        <item>Bendera Kamboja ini terdiri dari dua warna, yakni merah dan warna biru.</item>
+</string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/indonesia</item>
+        <item>@drawable/malaysia</item>
+        <item>@drawable/singapura</item>
+        <item>@drawable/thailand</item>
+        <item>@drawable/filipina</item>
+        <item>@drawable/brunei</item>
+        <item>@drawable/vietnam</item>
+        <item>@drawable/laos</item>
+        <item>@drawable/myanmar</item>
+        <item>@drawable/kamboja</item>
+    </integer-array>
+
+    <string-array name="detail_description">
+        <item>Seperti yang kita tahu bahwa bendera Indonesia disebut juga sebagai Sang Merah Putih yang terdiri dari dua warna, yakni warna merah dan juga warna putih. Makna yang biasa dipahami oleh orang-orang yaitu merah artinya berani dan putih artinya suci.
+            Tapi, dibalik gagahnya bendera Indonesia, ada filosofi yang menarik di dalamnya. Katanya, warna merah dan juga warna putih yang ada pada bendera Indonesia berasal dari mitologi Austronesia, yakni suku bangsa yang pernah menetap di Kepulauan Nusantara. Di dalam mitologi Austronesia tersebut, merah dimaknai sebagai langit dan putih dimaknai sebagai tanah.
+            Sang Merah Putih ini adalah simbol perjuangan Indonesia yang telah menempuh perjalanan amat panjang. Mulai dari sejak zaman kerajaan sampai masa perjuangan mendapatkan kemerdekaan. Oleh karena itu, bendera Indonesia sangat sakral dan penggunaannya telah diatur di dalam Undang-undang.
+            Setiap tanggal 17 Agustus, masyarakat Indonesia diwajibkan mengibarkan bendera merah putih, tanpa terkecuali. Hal tersebut dilakukan untuk memperingati Hari Kemerdekaan. Pengibaran Sang Merah Putih juga tidak boleh sembarangan, harus sesudah matahari terbit dan sebelum matahari tenggelam.</item>
+        <item>Bendera negara ASEAN yang memiliki fakta dan filosofi tak kalah unik dan menarik adalah bendera Malaysia yang dikenal dengan nama Jalur Gemilang. Untuk bendera Malaysia terdiri dari empat warna, yakni merah, putih, biru, dan juga kuning dengan maknanya masing-masing.
+            Warna merah sebagai simbol keberanian, warna putih melambangkan kesucian, dan warna biru melambangkan perpaduan. Sedangkan warna kuning yang terdapat bulan sabit serta bintang melambangkan warna dari para raja-raja.
+            Jalur Gemilang ini mempunyai 14 garis merah dan warna putih sama lebar. hal tersebut sebagai simbol Kerajaan Persekutuan dan 13 negara bagian Malaysia. Sedangkan bulan sabit sebagai simbol Islam, yakni agama resmi di Malaysia, kemudian bintang bujur 14 melambangkan tanda dari 13 negara bagian dan Kerajaan Persekutuan.
+            Bendera Malaysia sendiri merupakan gagasan dari seorang arsitek bernama Mohamad bin Hamzah. Setelah dirubah, pada akhirnya disepakati menjadi bendera negara pada bulan April 1950 dan dikibarkan untuk pertama kalinya pada bulan Mei 1950.</item>
+        <item>Apakah kamu tahu bahwa dulunya Singapura adalah salah negara bagian Malaysia? Walaupun masuk ke dalam negara bagian Malaysia, tapi Singapura sudah mempunyai bendera sendiri yang mereka kenalkan pada tahun 1959.
+            Bendera tersebut digunakan untuk menggantikan bendera Union Jack yang sudah berkibar selama 140 tahun yakni dari tahun 1819 hingga 1959. Ketika memutuskan untuk berpisah dengan Malaysia pada tahun 1965, Singapura tetap menggunakan bendera tersebut.
+            Bendera Singapura sendiri mirip dengan bendera Indonesia, yakni terdiri dari warna merah dan warna putih. Namun bedanya, di bagian warna merah terdapat bulan sabit dan juga lima bintang yang tersusun secara melingkar. Warna merah di dalam bendera tersebut memiliki makna persaudaraan dan kesamaan manusia.
+            Sementara warna putih melambangkan kebersihan dan kegunaan. Bulan sabit melambangkan negara muda yang sedang berusaha maju. Sedangkan lima bintang adalah simbol demokrasi, kemajuan, keamanan, keadilan, dan juga kesaksamaan, prinsip-prinsip yang dipegang teguh oleh Singapura.</item>
+        <item>Di dalam Bahasa Thai, bendera Thailand disebut sebagai Thong Trairong yang memiliki makna bendera tiga warna. Bendera Thailand terdiri dari tiga warna, yakni warna merah, putih, dan biru yang tersusun secara mendatar.
+            Urutannya yaitu dimulai dari warna merah, putih, biru, putih, dan merah. Warna-warna yang secara berurutan melambangkan negara kepercayaan kepada Tuhan Raja, yang mana merupakan semboyan tidak resmi dari negara Thailand.
+            Setidaknya, Thailand pernah mengganti benderanya sebanyak tiga kali. Bendera yang pertama (1855-1916) yakni berwarna merah tanpa adanya corak dengan dilengkapi berbagai simbol gajah putih. Kemudian pada tahun 1916, bendera Thailand diganti kembali hampir mirip dengan bendera yang digunakan sekarang.
+            Hanya saja, bedanya di jalur biru yang mana dulunya berwarna merah. Bendera resmi Thailand yang sekarang mulai dipakai sejak tahun 1917, setelah jalur merah yang ada di tengah bendera diganti dengan warna biru. Untuk orang Thailand, warna biru adalah warna hari Jumat dan merupakan hari kelahiran Raja Rama VI.</item>
+        <item>Makna warna yang ada pada bendera Filipina melambangkan perjalanan sejarah yang telah dilalui oleh Filipina. Warna biru melambangkan masa-masa yang tenang, warna merah melambangkan masa lalu yang penuh dengan gejolak perang, dan warna putih yang melambangkan kemurnian. Sementara itu, segitiga sama sisi yang berwarna putih melambangkan trias politika.
+            Terakhir yaitu 3 bintang kecil yang melambangkan kepercayaan utama yang dianut oleh masyarakat Filipina, yaitu Katolik, Protestan, dan Islam. Pengibaran bendera Filipina sendiri tergolong cukup unik. Apabila dikibarkan dengan warna biru di atas, maka itu artinya Filipina sedang berada dalam kondisi yang damai. Namun bila dikibarkan dengan warna merah di atas, maka itu artinya Filipina sedang dalam masa perang.
+            Selain kelima negara yang sudah disebutkan di atas, ASEAN juga mempunyai 5 negara lainnya. Masing-masing dari negara tersebut memiliki bendera yang unik serta makna yang sangat dalam.</item>
+        <item>Brunei Darussalam merupakan negara bekas jajahan negara Inggris. Ketika Inggris berkuasa di Brunei Darussalam atau yang sering disingkat Brunei, negara yang terletak di Barat Laut pantai Utara Kalimantan ini sudah mempunyai bendera sendiri.
+            Bendera tersebut diperkenalkan pada tahun 1959. Dimana bendera Brunei ini didominasi dengan warna kuning, di bagian tengah ada garis hitam dan putih. Kemudian di atasnya ada simbol bulan sabit, payung obor, sayap, serta sepasang tangan yang menengadah.
+            Simbol-simbol tersebut mempunyai makna khusus. Pertama yaitu simbol bulan sabit yakni lambang dari Agama Islam, yang mana mayoritas penduduk di Brunei beragama Muslim. Kemudian payung obor memiliki makna pemerintahan di bawah Sultan.
+            Sedangkan simbol sayar memiliki makna keadilan, kedamaian, kemakmuran, dan juga keamanan. Di dalam bulan sabit tertulis motto dalam huruf Jawi yang artinya “Senantiasa berkhidmat dengan panduan Tuhan”. Sementara itu, di bawah bulan sabit terdapat tulisan Negara Brunei Darussalam</item>
+        <item>Bendera Vietnam terdiri dari dua warna yakni warna merah dan warna kuning. Walaupun terlihat sederhana, tapi bendera Vietnam ini mempunyai makna yang mendalam. Dimana warna merah pada bendera tersebut melambangkan perjuangan dan kesuksesan revolusi Vietnam.
+            Kemudian bintang kuning yang berada di tengah bendera melambangkan kepemimpinan Partai Komunis. Sementara itu, bintang dengan lima sudutnya melambangkan lima golongan pembentuk sosialisme yakni cendekiawan, tetang, petani, buruh, dan pemuda.
+            Bendera Vietnam ini dulunya digunakan oleh Vietnam Utara sejak tahun 1955. Sedangkan Vietnam Selatan juga mempunyai benderanya sendiri dengan didominasi warna kuning dengan tiga garis merah horizontal bagian tengah.
+            Akan tetapi, setelah perang Indochina selesai dan kedua negara tersebut bersatu, akhirnya disepakati untuk menggunakan bendera yang sekarang sudah menjadi kebanggan rakyat Vietnam.
+        </item>
+        <item>Bendera Laos ini mulai diperkenalkan pada tahun 1975. Dimana bendera dari negara Laos terdiri dari warna biru dan merah yang tersusun secara horizontal. Untuk ukuran bagian berwarna biru cenderung lebih besar dibandingkan dengan warna merah.
+            Di tengah bendera, ada simbol cakra atau lingkaran putih. Warna-warna yang ada pada bendera Laos mempunyai makna yang berbeda-beda. Dimana warna merah melambangkan darah dari para pejuang yang telah gugur. Kemudian warna biru melambangkan kekayaan sumber daya dunia. Sementara itu, simbol lingkaran putih melambangkan pantulan bulan purnama di atas Sungai Mekong sekaligus sebagai simbol kerukunan negara.
+            Walaupun termasuk ke dalam negara komunis, tapi Laos tidak mengadopsi simbol bintang pada benderanya yang biasanya digunakan oleh negara komunis lainnya.</item>
+        <item>Bendera negara ASEAN yang terletak di paling barat ini terdiri dari warna kuning, hijau, dan merah yang tersusun secara horizontal.
+            Pada bagian tengah ada simbol bintang segi lima berwarna putih. Warna kuning melambangkan solidaritas, kemudian warna hijau melambangkan perdamaian dan warna merah memiliki makna keberanian. Simbol bintang putih yang ada di dalam bendera ini memiliki arti persatuan rakyat Myanmar.
+            Bendera ini baru saja diperkenalkan oleh Myanmar pada tahun 2010, untuk mengganti bendera sosialis yang sudah digunakan sejak tahun 1974. Menurut catatan, setidaknya Myanmar yang dulunya bernama Burma, pernah mengganti bendera negara sebanyak tujuh kali.</item>
+        <item>Bendera Kamboja ini terdiri dari dua warna, yakni merah dan warna biru. Dimana warna biru tersebut mengapit warna merah. Di bagian tengah, ada sebuah ilustrasi miniatur Angkor Wat, yakni kompleks candi Hindu terbesar di dunia.
+            Kemudian warna biru menyimbolkan keluarga kerajaan, lalu warna merah melambangkan negara dan simbol Angkor Wat melambangkan agama</item>
+    </string-array>
+</resources>
